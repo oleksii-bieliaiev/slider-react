@@ -7,10 +7,8 @@ export const App = () => {
 
   return (
     <div className="App">
-      <div className="slider-container">
-        <div className="slider">
-          <VideoSlider />
-        </div>
+      <div className="slider">
+        <VideoSlider />
       </div>
     </div>
   );
